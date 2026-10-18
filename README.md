@@ -16,4 +16,7 @@ student · arch user · anime enjoyer (⌐■_■)
 - (☞ﾟヮﾟ)☞ [termux-dotfiles](https://github.com/kudryashalex367-create/termux-dotfiles): the same vibe, but on my phone
 
 ### status
-`touching grass: 404 not found` ¯\_(ツ)_/¯
+```$ sudo touch grass
+
+touch: cannot touch 'grass': Permission denied
+Error: 'touch grass' is not in the sudoers file. This incident will be reported```
