@@ -18,7 +18,5 @@ student · arch user · anime enjoyer (⌐■_■)
 ### status
 ```
 $ sudo touch grass
-
-touch: cannot touch 'grass': Permission denied
-Error: 'touch grass' is not in the sudoers file. This incident will be reported
+alex is not in the sudoers file. This incident will be reported.
 ```
