@@ -20,4 +20,5 @@ student · arch user · anime enjoyer (⌐■_■)
 $ sudo touch grass
 
 touch: cannot touch 'grass': Permission denied
-Error: 'touch grass' is not in the sudoers file. This incident will be reported ```
+Error: 'touch grass' is not in the sudoers file. This incident will be reported
+```
