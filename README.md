@@ -1,16 +1,19 @@
-## Hi there 👋
+# hi, i'm alex (ᵔᴥᵔ)
 
-<!--
-**kudryashalex367-create/kudryashalex367-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+student · arch user · anime enjoyer (⌐■_■)
 
-Here are some ideas to get you started:
+> sitting with Linux and anime girls > going outside ┐(´д`)┌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### about me
+- ٩(◕‿◕)۶ running Arch + niri with a dark monochrome rice
+- (•̀ᴗ•́)و most of my free time goes to my PC, and the rest goes to anime
+- ʕ•ᴥ•ʔ my avatar is Yui Hirasawa, and yes, I have a whole folder of her
+- (︶︹︶) outdoors: still loading
+
+### stuff i made
+- (づ｡◕‿‿◕｡)づ [dotfiles](https://github.com/kudryashalex367-create/dotfiles): Monochrome Obsidian theme for Arch/niri
+- ヽ(´▽`)/ [wallpapers](https://github.com/kudryashalex367-create/wallpapers): wallpapers I actually use
+- (☞ﾟヮﾟ)☞ [termux-dotfiles](https://github.com/kudryashalex367-create/termux-dotfiles): the same vibe, but on my phone
+
+### status
+`touching grass: 404 not found` ¯\_(ツ)_/¯
